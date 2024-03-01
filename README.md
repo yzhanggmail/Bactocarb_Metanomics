@@ -1,5 +1,5 @@
 # Bactocarb_Metaomics Data and Code #
-Data and Code Accompanying paper "Metabolic plasticity of the gut microbiome in response to diets differing in glycemic load".
+Data and Code Accompanying paper **"Metabolic plasticity of the gut microbiome in response to diets differing in glycemic load"**.
 
 **Contents:** At current the repository contains the following modules.
 
