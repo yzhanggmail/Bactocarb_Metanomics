@@ -19,5 +19,5 @@ Code was written in R version 4.3.1.
 Loading this repository
 Please check out this repository using "https://github.com/yzhanggmail/Bactocarb_Metaomics".
 
-git clone --recurse-submodules https://github.com/yzhanggmail/Bactocarb_Metaomics/Evolution.git
+git clone --recurse-submodules https://github.com/yzhanggmail/Bactocarb_Metaomics.git
 which automatically retrieves all submodules.
