@@ -5,7 +5,7 @@ Data and Code Accompanying "Metabolic plasticity of the gut microbiome in respon
 
 **Data:**
 1. "BactoCARB_Clinical_Info_3timepoint.csv" contains clinical data for 80 subjects with observations at three timepoints including baseline, HGL and LGL samples.
-2. "Pathway_organized_filtered_logratio.csv" includes pathway RNA/DNA ratio data for HGL and LGL observations in log2 scale. The data were filtered based on presenting in >80% of observations in the baseline, HGL and LGL metagenomic samples. A total of 147 pathways werer obtained after removing 55 super-pathway but 5 diet-related super-pathways were reinstated.
+2. "Pathway_organized_filtered_logratio.csv" includes pathway RNA/DNA ratio data for HGL and LGL observations in log2 scale. The data were filtered based on presenting in >80% of observations in the baseline, HGL and LGL metagenomic samples. A total of 147 pathways werer obtained after removing 55 super-pathways but 5 diet-related super-pathways were reinstated.
 3. "Cazymes_organized_filtered_logratio.csv" contains CAZymes RNA/DNA ratio data for HGL and LGL observations in log2 scale. The CAZyme RNA/DNA ratio data retained 192 variables after filtering by RNA/DNA ratio>1 of variables identified in 80% of subjects.
 4. "MetaPhlanDNA_organized_filtered_log2scale.csv" includes MetaPhlan DNA data for HGL and LGL observations in log2 scale. The DNA data consisted of 100 species after filtering at a prevalence >80%.
    
