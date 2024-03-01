@@ -3,7 +3,7 @@ Data and Code Accompanying "Metabolic plasticity of the gut microbiome in respon
 
 **Contents:** At current the repository contains the following modules.
 
-**Data: **
+**Data:**
 1. "BactoCARB_Clinical_Info_3timepoint.csv" contains clinical data for 80 subjects with observations at three timepoints including baseline, HGL and LGL samples.
 2. "Pathway_organized_filtered_logratio.csv" includes pathway RNA/DNA ratio data for HGL and LGL observations in log2 scale. The data were present in >80% of observations in the baseline, HGL and LGL metagenomic samples. A total of 147 pathways werer obtained after removing super-pathway but those showing diet difference were included.
 3. "Cazymes_organized_filtered_logratio.csv" contains CAZymes RNA/DNA ratio data for HGL and LGL observations in log2 scale. For RNA/DNA relative expression of bacterial metabolic pathways, a relative expression filtering criterion of >80% prevalence was used. All 55 super-pathways were removed, and 5 diet-related super-pathways were reinstated. The CAZyme RNA/DNA ratio data retained 192 variables after filtering by RNA/DNA ratio>1 of variables identified in 80% of subjects.
@@ -19,5 +19,5 @@ Code was written in R version 4.3.1.
 Loading this repository
 Please check out this repository using "https://github.com/yzhanggmail/Bactocarb_Metaomics".
 
-git clone --recurse-submodules https://github.com/yzhanggmail/Bactocarb_Metaomics/edit/main/README.md/Evolution.git
+git clone --recurse-submodules https://github.com/yzhanggmail/Bactocarb_Metaomics/Evolution.git
 which automatically retrieves all submodules.
