@@ -1,4 +1,4 @@
-# Bactocarb_Metaomics Data and Code #
+# Bactocarb_Metanomics Data and Code #
 Data and Code Accompanying paper **"Metabolic plasticity of the gut microbiome in response to diets differing in glycemic load"**.
 
 **Contents:** At current the repository contains the following modules.
@@ -17,7 +17,7 @@ Code was written in R version 4.3.1.
 
 
 Loading this repository
-Please check out this repository using "https://github.com/yzhanggmail/Bactocarb_Metaomics".
+Please check out this repository using "https://github.com/yzhanggmail/Bactocarb_Metanomics".
 
-git clone --recurse-submodules https://github.com/yzhanggmail/Bactocarb_Metaomics.git
+git clone --recurse-submodules https://github.com/yzhanggmail/Bactocarb_Metanomics.git
 which automatically retrieves all submodules.
