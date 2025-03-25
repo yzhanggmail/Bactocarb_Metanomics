@@ -7,8 +7,6 @@ rm(list=ls())
 graphics.off()
 library(plyr)  ## for rbind.fill ##
 ##setwd("Your_working_directory")
-setwd("S:/yzhang/projects/Tim/Bactocarb2018/code_3timepoints/data_tobesent/Data")
-setwd("S:/yzhang/projects/Tim/Bactocarb2018/data")
 load("./Data_organized/Microbiome_Metagenomics_Metatranscpt_pathway_organized.Rdata")
 
 dna.data <- data.metagn.tp
